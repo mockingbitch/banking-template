@@ -1,0 +1,33 @@
+body {
+    background-color: #0580C5;
+}
+.container {
+    width: 1600px;
+    height: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+ul {
+    margin-top: 80px;
+    display: flex;
+    background-color: #5EAFDD;
+    border-radius: 10px;
+    padding: 10px;
+}
+li{
+    font-size: 30px;
+    list-style: none;
+    margin-left: 100px;
+    color: white;
+}
+.header-menu{
+    display: block;
+}
+.banner{
+    display: block;
+}
